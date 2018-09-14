@@ -1,0 +1,6 @@
+c:\users\g.pansironi\documents\visual studio 2015\Projects\NumeriPrimi\NumeriPrimi\bin\Debug\NumeriPrimi.exe.config
+c:\users\g.pansironi\documents\visual studio 2015\Projects\NumeriPrimi\NumeriPrimi\bin\Debug\NumeriPrimi.exe
+c:\users\g.pansironi\documents\visual studio 2015\Projects\NumeriPrimi\NumeriPrimi\bin\Debug\NumeriPrimi.pdb
+c:\users\g.pansironi\documents\visual studio 2015\Projects\NumeriPrimi\NumeriPrimi\obj\Debug\NumeriPrimi.csprojResolveAssemblyReference.cache
+c:\users\g.pansironi\documents\visual studio 2015\Projects\NumeriPrimi\NumeriPrimi\obj\Debug\NumeriPrimi.exe
+c:\users\g.pansironi\documents\visual studio 2015\Projects\NumeriPrimi\NumeriPrimi\obj\Debug\NumeriPrimi.pdb
